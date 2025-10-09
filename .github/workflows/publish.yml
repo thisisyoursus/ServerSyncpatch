@@ -32,7 +32,7 @@ jobs:
       - name: Upload Thunderstore Package
         uses: GreenTF/upload-thunderstore-package@v3.1
         with:
-          community: northstar
+          community: Akinasu666
           # Name of the team to publish the mod under
           # This should be modified if your github username is different than your team name on Thunderstore
           namespace: ${{ github.repository_owner }} # <------ DOUBLE CHECK THIS
