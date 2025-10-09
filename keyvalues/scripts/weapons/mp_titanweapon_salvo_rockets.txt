@@ -1,0 +1,10 @@
+WeaponData
+{	
+	Mods
+	{
+    	missile_racks
+		{
+		"explosionradius" 								"*1.5"
+		}
+	}
+}

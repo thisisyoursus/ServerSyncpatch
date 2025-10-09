@@ -1,0 +1,11 @@
+WeaponData
+{
+    "offhand_default_inventory_slot"				"2"
+    Mods
+    {
+        pas_scorch_slowtrap
+        {
+			"regen_ammo_refill_rate"						"6"
+        }
+    }
+}

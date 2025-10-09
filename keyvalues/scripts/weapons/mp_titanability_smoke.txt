@@ -1,0 +1,8 @@
+WeaponData
+{
+"offhand_default_inventory_slot"				"2"
+    Mods
+	{
+    PilotMode
+    }
+}

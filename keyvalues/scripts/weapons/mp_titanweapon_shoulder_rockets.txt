@@ -1,0 +1,40 @@
+WeaponData
+{
+	"charge_cooldown_delay"   						"0.1"
+  MP_BASE
+  {
+	"fire_rate"   									"500"
+  }
+  Mods
+  {
+		upgradeCore_Vanguard
+		{
+		"smart_ammo_lock_type"							"any"
+		"smart_ammo_new_target_delay"					"0.1"
+		"smart_ammo_search_angle" 						"40"
+		"smart_ammo_unlock_debounce_time"				"1"
+		"damage_near_value"   						"*1.2"
+		"damage_far_value"							"*1.2"
+		"damage_near_value_titanarmor"					"*1.25"
+		"damage_far_value_titanarmor"					"*1.25"
+		"smart_ammo_targeting_time_min"					"0.3"
+		"smart_ammo_targeting_time_max"					"0.3"
+		"smart_ammo_targeting_time_min_npc"				"0.1"
+		"smart_ammo_targeting_time_max_npc"				"0.1"
+		"charge_cooldown_time"							"/2"
+		}
+		upgradeCore_MissileRack_Vanguard
+		{
+		"smart_ammo_lock_type"							"any"
+		"smart_ammo_new_target_delay"					"0.1"
+		"smart_ammo_search_angle" 						"40"
+		"smart_ammo_unlock_debounce_time"				"1"
+		"damage_near_value_titanarmor"					"*1.25"
+		"damage_far_value_titanarmor"					"*1.25"
+		"smart_ammo_targeting_time_min"					"0.3"
+		"smart_ammo_targeting_time_max"					"0.3"
+		"smart_ammo_targeting_time_min_npc"				"0.1"
+		"smart_ammo_targeting_time_max_npc"				"0.1"
+		}
+  }
+}

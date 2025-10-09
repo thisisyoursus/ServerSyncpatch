@@ -1,0 +1,15 @@
+WeaponData
+{
+	Mods
+	{
+		pas_legion_spinup
+		{
+			"zoom_time_in"									"1"
+			"zoom_time_out"   								"0.50"
+		}
+		SyncCheck
+		{
+			"reload_time" 									"--0.1"
+		}
+	}
+}

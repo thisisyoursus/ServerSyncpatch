@@ -1,0 +1,6 @@
+WeaponData
+{
+	"offhand_default_inventory_slot"				"2"
+			"charge_cooldown_time"							"1"
+			"regen_ammo_refill_rate"						"16"
+}

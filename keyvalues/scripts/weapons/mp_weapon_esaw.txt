@@ -1,0 +1,29 @@
+WeaponData
+{
+    Mods
+    {
+        pro_screen
+		{
+            "description" 									"Nemesis Burst AR"
+	        "fire_mode"   									"semi-auto"
+        	"burst_fire_count"								"5"
+	        "burst_fire_delay"								"0.18"
+            "fire_rate"                                     "18"
+//        	"damage_near_value"   							"16"
+			"damage_near_value"   							"25"
+		    "damage_far_value"								"20"
+            "damage_headshot_scale"							"1.75"
+        	"ammo_clip_size"   								"20"
+        	"reload_time" 									"2.7"
+	        "reload_time_late1"								"1.62"
+            "holster_time"									"0.55"
+            "deploy_time" 									"0.6"
+            "lower_time"  									"0.4"
+            "raise_time"  									"0.5"
+		}
+        extended_ammo
+		{
+			"ammo_clip_size"   					"++12"
+		}
+    }
+}

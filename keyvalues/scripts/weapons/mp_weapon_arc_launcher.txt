@@ -1,0 +1,5 @@
+WeaponData
+{
+    	"fire_rate"   									"20"
+        
+}

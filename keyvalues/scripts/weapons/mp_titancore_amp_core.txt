@@ -1,0 +1,22 @@
+WeaponData
+{
+	"vortex_drain"									".05" // buff old .032
+	// vanilla missing: npc usage
+	// default value keep same as player's
+
+	"offhand_default_inventory_slot"				"3"
+
+	// vanilla missing: MP balance
+	MP_BASE
+	{
+
+		"damage_near_value"   						"40"
+		"damage_far_value"							"40"
+		"npc_damage_near_value"   					"150"
+		"npc_damage_far_value"						"150"
+
+		// npc usage re-balance
+		"npc_damage_near_value_titanarmor"			"150"		// 99(was 120) * 100 // shut up old 99
+		"npc_damage_far_value_titanarmor" 			"150"		// 99(was 120) * 100
+	}
+}

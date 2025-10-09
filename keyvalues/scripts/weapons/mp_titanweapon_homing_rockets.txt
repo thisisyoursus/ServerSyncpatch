@@ -1,0 +1,20 @@
+WeaponData
+{
+//	"ammo_stockpile_max"							"10"
+//	"ammo_clip_size"   								"10"
+//	"ammo_default_total"							"200"
+//	"ammo_min_to_fire"								"200"
+//	"ammo_per_shot"									"1"
+
+	// Regen Ammo
+//	"regen_ammo_refill_rate"						"1.0"
+	"regen_ammo_refill_start_delay"					"1.0"
+	"reload_enabled"								"0"
+	"damage_near_value_titanarmor"					"250"
+	"damage_far_value_titanarmor"					"250"
+	"explosion_damage"								"50"
+	"explosion_damage_heavy_armor"					"250"
+	"fire_duration"									"0"
+	"burst_fire_delay"								"0"
+	"ammo_no_remove_from_stockpile"					"1"
+}

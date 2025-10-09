@@ -1,0 +1,13 @@
+WeaponData
+{
+    "offhand_default_inventory_slot"				"2"
+    Mods
+    {   
+        havoc
+        {
+        "damage_flags"									"DF_RAGDOLL | DF_EXPLOSION | DF_ELECTRICAL"
+        "explosion_damage"								"120"
+	    "explosion_damage_heavy_armor"					"550"
+        }
+    }
+}

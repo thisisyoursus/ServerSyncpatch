@@ -1,0 +1,43 @@
+WeaponData
+{
+	"pass_through_depth"				"500"
+	"stat_damage" 									"300"
+	"stat_range"  									"100"
+
+	MP_BASE
+	{
+		"ammo_clip_size"   								"1"
+		"damage_near_value"   							"500"
+		"damage_far_value"								"500"
+		"damage_near_distance"							"10000"
+		"damage_far_distance" 							"10000"
+		"zoom_time_in"									"0.1"
+		"zoom_time_out"   								"0.1"
+	}
+	SP_BASE
+	{
+		"ammo_clip_size"   								"1"
+		"damage_near_value"   							"500"
+		"damage_far_value"								"500"
+		"damage_near_distance"							"10000"
+		"damage_far_distance" 							"10000"
+		"zoom_time_in"									"0.1"
+		"zoom_time_out"   								"0.1"
+	}
+	Mods
+	{
+		extended_ammo
+		{
+			"ammo_stockpile_max"				"120"
+			"ammo_clip_size"   					"1"
+			"ammo_default_total"				"120"
+		}
+		pas_fast_reload
+		{
+			"reload_time"								"*1"
+			"reload_time_late1"							"*1"
+			"reloadempty_time"							"*1"
+			"reloadempty_time_late1"					"*1"
+		}
+	}
+}

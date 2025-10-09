@@ -1,0 +1,37 @@
+WeaponData
+{
+	"proficiency_poor_spreadscale"					"0.0"
+	"proficiency_average_spreadscale" 				"0.0"
+	"proficiency_good_spreadscale"					"0.0"
+	"proficiency_very_good_spreadscale"   			"0.0"
+	"npc_max_burst"									"2.0"
+	"npc_rest_time_between_bursts_min"				"1.0"
+	"proficiency_poor_bias"							"1.0"
+	"proficiency_average_bias"						"1.0"
+	"proficiency_good_bias"							"1.0"
+	"proficiency_very_good_bias"					"1.0"
+	"npc_accuracy_multiplier_heavy_armor" 			"5"
+	"npc_accuracy_multiplier_npc"					"5"
+	"vortex_drain"									"0.45"
+	"npc_pre_fire_delay"							"0.1"
+	"npc_pre_fire_delay_interval"					"3"
+//	"offhand_default_inventory_slot"				"0" //right grenade slot
+	"offhand_default_inventory_slot"				"1" //left ability slot
+//  "offhand_default_inventory_slot"				"2" //mid ability slot
+//  "offhand_default_inventory_slot"				"3" //Core Slot Do Not add not Core Thing Or Game Will Crash
+//  "offhand_default_inventory_slot"				"4" //upper ability slot
+//	"regen_ammo_refill_rate"						"5.0"
+//	"ammo_per_shot"									"60"
+//	"ammo_min_to_fire"								"60"
+    Mods
+    {
+        energy_transfer
+        {
+			"regen_ammo_refill_rate"						"*1.5"
+        }
+        energy_field_energy_transfer
+        {
+			"regen_ammo_refill_rate"						"*1.5"
+        }
+    }
+}

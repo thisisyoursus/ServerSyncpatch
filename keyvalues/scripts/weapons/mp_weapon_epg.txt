@@ -1,0 +1,12 @@
+WeaponData
+{   
+    Mods
+	{
+        cheatepg
+        {
+            	"fire_rate"   									"++999"
+                "ammo_clip_size"   								"++500"
+                "fire_mode"                                     "auto"
+        }
+    }
+}

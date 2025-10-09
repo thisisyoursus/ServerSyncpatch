@@ -1,0 +1,22 @@
+WeaponData
+{
+			"ammo_per_shot"									"100"
+			"ammo_min_to_fire"								"100"
+			"regen_ammo_refill_rate"						"8"
+			"ammo_display"									"count"
+			"cooldown_type"                                 "ammo_instant"
+			"ammo_drains_to_empty_on_fire"					"0"
+			"ammo_no_remove_from_clip"						"0"
+			"offhand_default_inventory_slot"				"2"
+	Mods
+	{
+		fd_phase_charges
+		{
+			"regen_ammo_refill_rate"						"24"
+		}
+		pas_power_cell
+		{
+			"regen_ammo_refill_rate"	"*1.35"
+		}
+	}
+}

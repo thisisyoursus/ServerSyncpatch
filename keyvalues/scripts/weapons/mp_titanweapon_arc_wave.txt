@@ -1,0 +1,23 @@
+WeaponData
+{
+    Mods
+    {
+        havoc
+        {
+            "damage_near_value"   							"150"
+		    "damage_far_value"								"150"
+        	"regen_ammo_refill_rate"						"50"
+	        "regen_ammo_refill_start_delay"					"1.0"
+            "ammo_display"									"bar"
+            "ammo_stockpile_max"							"800"
+            "ammo_clip_size"   								"800"
+            "ammo_default_total"							"800"
+            "ammo_per_shot"									"800"
+            "ammo_min_to_fire"								"800"
+        //    "wave_max_count"								"10"
+        //    "wave_step_dist"								"200.0"
+        //    "charge_wave_max_count"							"10"
+        //    "charge_wave_step_dist"							"200.0"
+        }
+    }
+}
