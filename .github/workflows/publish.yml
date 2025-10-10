@@ -32,10 +32,10 @@ jobs:
       - name: Upload Thunderstore Package
         uses: GreenTF/upload-thunderstore-package@v3.1
         with:
-          community: Akinasu666
+          community: northstar
           # Name of the team to publish the mod under
           # This should be modified if your github username is different than your team name on Thunderstore
-          namespace: flyingfrancebreadconcentration # <------ DOUBLE CHECK THIS
+          namespace: Akinasu666 # <------ DOUBLE CHECK THIS
           # Name of the package
           name: Akinasu666Serversyncpatch # This can be modified if the package name differs from the repo name
           # Package version to publish
@@ -47,4 +47,4 @@ jobs:
           # Directory to wrap the contents of the repo in
           wrap: mods/${{ github.repository_owner }}.${{ env.name }} # This will wrap your Author.ModName folder in a mods/ folder before publishing
           #deps: "northstar-Northstar@1.9.3" # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
-          categories: "mods Server-side Client-side" # <----------------------------- Add more categories as needed, separated by spaces
+          categories: "mods Client-side" # <----------------------------- Add more categories as needed, separated by spaces
