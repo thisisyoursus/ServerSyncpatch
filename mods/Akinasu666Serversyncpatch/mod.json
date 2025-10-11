@@ -1,7 +1,7 @@
 {
 	"Name": "Akiansu666Serversyncpatch",
 	"Description": "syncpatch.",
-	"Version": "1.0.9",
+	"Version": "1.2.0",
 	"LoadPriority": 50,
 	"RequiredOnClient": true
 }
