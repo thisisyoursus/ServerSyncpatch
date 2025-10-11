@@ -3,6 +3,6 @@
 	"Description": "syncpatch.",
 	"LoadPriority": 50,
 	"RequiredOnClient": true,
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Dependencies": []
 }
