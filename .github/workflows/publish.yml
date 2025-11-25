@@ -50,5 +50,4 @@ jobs:
           repo: northstar.thunderstore.io
           categories: |
             mods 
-            server-side
-            language-en
+            Client-side
